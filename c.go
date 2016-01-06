@@ -1,6 +1,6 @@
 package c
 
-import "a github.com/skrassiev/packagea"
+import a "github.com/skrassiev/packagea"
 import "fmt"
 
 var C = 3
